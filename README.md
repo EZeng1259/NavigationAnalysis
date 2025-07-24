@@ -36,7 +36,7 @@ Data Visualization: A core component of this analysis was visualization. I used 
 ## Key Findings
 The analysis revealed participants were able to improve their navigation ability across the 8 trials. However, it is unclear if their strategies resembled Nearest Neighbors or Optimal Solutions. 
 
-Technologies Used
+## Technologies Used
 - Python
 - Jupyter Notebook
 - NumPy
