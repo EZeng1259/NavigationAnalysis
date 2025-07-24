@@ -33,7 +33,7 @@ Data Visualization: A core component of this analysis was visualization. I used 
 
 - Scatter plots to explore relationships between navigation efficiency and cognitive mapping ability.
 
-Key Findings
+## Key Findings
 The analysis revealed participants were able to improve their navigation ability across the 8 trials. However, it is unclear if their strategies resembled Nearest Neighbors or Optimal Solutions. 
 
 Technologies Used
